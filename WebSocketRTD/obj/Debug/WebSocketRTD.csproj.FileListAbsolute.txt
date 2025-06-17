@@ -1,0 +1,11 @@
+C:\Users\dan\Desktop\Excel Stuff\WebSocketRTD\bin\Debug\WebSocketRTD.dll
+C:\Users\dan\Desktop\Excel Stuff\WebSocketRTD\bin\Debug\WebSocketRTD.pdb
+C:\Users\dan\Desktop\Excel Stuff\WebSocketRTD\bin\Debug\ExcelDna.Integration.dll
+C:\Users\dan\Desktop\Excel Stuff\WebSocketRTD\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\dan\Desktop\Excel Stuff\WebSocketRTD\bin\Debug\WebSocket4Net.dll
+C:\Users\dan\Desktop\Excel Stuff\WebSocketRTD\bin\Debug\ExcelDna.Integration.xml
+C:\Users\dan\Desktop\Excel Stuff\WebSocketRTD\obj\Debug\WebSocketRTD.csproj.AssemblyReference.cache
+C:\Users\dan\Desktop\Excel Stuff\WebSocketRTD\obj\Debug\WebSocketRTD.csproj.CoreCompileInputs.cache
+C:\Users\dan\Desktop\Excel Stuff\WebSocketRTD\obj\Debug\WebSocke.430EE25A.Up2Date
+C:\Users\dan\Desktop\Excel Stuff\WebSocketRTD\obj\Debug\WebSocketRTD.dll
+C:\Users\dan\Desktop\Excel Stuff\WebSocketRTD\obj\Debug\WebSocketRTD.pdb

@@ -1,0 +1,6 @@
+<DnaLibrary RuntimeVersion="v4.0" Name="WebSocketRTD">
+  <ExternalLibrary Path="WebSocketRTD.dll" />
+  <RTDServers>
+    <Server ProgId="RtdWebSocket.Server" Type="WebSocketRTD.RtdWebSocketServer, WebSocketRTD" />
+  </RTDServers>
+</DnaLibrary>
